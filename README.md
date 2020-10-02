@@ -1,7 +1,10 @@
 # Fonctions en PL/pgSQL pour changer un classement
 
 Les fonctions présentées ici correspondent aux différents codes sources présentés
-dans la série d’article en 2 parties dont les liens suivront lors de la publication de ceux-ci.
+dans la série d’articles publiées à ces adresses :
+
+ - <https://cogito-ergo-dev.fr/blog/54996/trier-avec-postgresql-partie-1/>
+ - <https://cogito-ergo-dev.fr/blog/55188/trier-avec-postgresql-partie-2/>
 
 ## part_one.sql
 
